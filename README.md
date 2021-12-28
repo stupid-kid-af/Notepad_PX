@@ -2,6 +2,7 @@
 # Notepad_PX
 
 An open source alternative of Notepad.
+Sorry for delay
 
 
 ## Badges
